@@ -1,0 +1,4 @@
+vfile
+=====
+
+virtual file interface
